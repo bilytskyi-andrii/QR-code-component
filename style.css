@@ -1,0 +1,13 @@
+:root {
+    --ff-primary: 'Outfit', sans-serif;
+    --fw-regular: 400;
+    --fw-bold: 700;
+    --fs-regular: 1rem;
+    --fs-title: 1.25rem;
+
+    --clr-neutral-100: hsl(0, 0%, 100%);
+    --clr-neutral-200: hsl(212, 45%, 89%);
+
+    --clr-primary-200: hsl(220, 15%, 55%);
+    --clr-primary-400: hsl(218, 44%, 22%);
+}
