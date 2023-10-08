@@ -11,3 +11,20 @@
     --clr-primary-200: hsl(220, 15%, 55%);
     --clr-primary-400: hsl(218, 44%, 22%);
 }
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    font: inherit;
+}
+
+img,
+svg {
+    display: block;
+    max-width: 100%;
+}
